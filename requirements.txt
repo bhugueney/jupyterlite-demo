@@ -13,7 +13,7 @@ jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
 
 # added
-jupyterlab_rise
+jupyterlab_rise<0.40.0
 
 # JupyterLab: Fasta file renderer (optional)
 #jupyterlab-fasta>=3,<4
