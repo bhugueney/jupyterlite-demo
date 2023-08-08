@@ -13,7 +13,9 @@ jupyterlab-language-pack-fr-FR
 jupyterlab-language-pack-zh-CN
 
 # added
-rise
+# rise does not work
+jupyterlab-deck
+jupyterlab-hide-code
 
 # JupyterLab: Fasta file renderer (optional)
 #jupyterlab-fasta>=3,<4
